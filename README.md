@@ -1,4 +1,7 @@
 ## 🔼 Learn Next
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 Este projeto foi desenvolvido com o objetivo de aprender as funcionalidades avançadas do Next.js. Nele, explorei conceitos como Middleware, Revalidate, Metadata, Action, Suspense e Loading, além de trabalhar com páginas dinâmicas.
 
