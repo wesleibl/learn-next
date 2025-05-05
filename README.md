@@ -1,50 +1,65 @@
-## 🔼 Learn Next
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+# Learn Next
 
-Este projeto foi desenvolvido com o objetivo de aprender as funcionalidades avançadas do Next.js. Nele, explorei conceitos como Middleware, Revalidate, Metadata, Action, Suspense e Loading, além de trabalhar com páginas dinâmicas.
+Um projeto em Next.js focado em aprendizado de funcionalidades avançadas, como Middleware, Revalidate, Metadata, Action, Suspense e páginas dinâmicas.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+## Sumário
+- [Funcionalidades](#funcionalidades)
+- [Instalação](#instalação)
+- [Uso](#uso)
+- [Créditos](#créditos)
+- [Contato](#contato)
 
 ## Funcionalidades
 
-- **Middleware**: Utilização de middleware para interceptar e manipular requisições.
-- **Revalidate**: Implementação da função `revalidate` para atualizar o conteúdo de páginas estáticas.
-- **Metadata**: Manipulação de metadados (como título, descrição e outras informações) de maneira dinâmica.
-- **Action**: Uso de ações para enviar e processar dados em formulários ou interações.
-- **Suspense e Loading**: Implementação de carregamento assíncrono e gestão de estados de carregamento usando Suspense.
-- **Páginas Dinâmicas**: Utilização de páginas dinâmicas com conchetes para criar rotas dinâmicas e parametrizadas.
+- **Middleware**: Interceptação e manipulação de requisições.
+- **Revalidate**: Atualização de conteúdo estático com a função `revalidate`.
+- **Metadata**: Manipulação dinâmica de metadados (título, descrição etc).
+- **Action**: Envio e processamento de dados via ações.
+- **Suspense e Loading**: Carregamento assíncrono com gerenciamento de estados de carregamento.
+- **Páginas Dinâmicas**: Rotas dinâmicas com uso de colchetes `[]`.
 
-## Como Rodar o Projeto
+## 🛠 Tecnologias Utilizadas
 
-### Pré-requisitos
+- React
+- Next.js
+- Tailwind CSS
 
-- Node.js
-- NPM ou Yarn
+## Instalação
 
-### Passos
-
-Clone o repositório:
 ```bash
-   git clone git@github.com:wesleibl/learn-next.git
+# Clone o repositório
+git clone git@github.com:wesleibl/learn-next.git
 
-   cd learn-next
-   npm install
-   # ou
-   yarn install
+# Acesse a pasta
+cd learn-next
 
-   npm run dev
-   # ou
-   yarn dev
+# Instale as dependências
+npm install
+# ou
+yarn install
 ```
-Acesse no seu navegador: [http://localhost:3000](http://localhost:3000)
 
-## 👤 Autor  
+## Uso
 
-Desenvolvido por **Weslei Lucas**.  
+```bash
+# Inicie o servidor de desenvolvimento
+npm run dev
+# ou
+yarn dev
+```
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/wesleibl/)
+Abra no navegador: [http://localhost:3000](http://localhost:3000)
 
-Se gostou do projeto, não esqueça de deixar uma ⭐ no repositório! 🚀
+## Créditos
 
-## 🌟 Créditos
-Projeto baseado na video aula do [Sujeito Programador](https://www.youtube.com/@Sujeitoprogramador)
+Projeto baseado na videoaula do [Sujeito Programador](https://www.youtube.com/@Sujeitoprogramador)
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+## Contato
+
+Para dúvidas ou sugestões, entre em contato: [wesleibl@gmail.com](mailto:wesleibl@gmail.com) | 
